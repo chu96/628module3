@@ -26,7 +26,7 @@ There are 4 Python code files and 4 R code files:
 
 *ice.R contains final model to predict ranking stars.
 
-* shiny.R contains UI and SERVER part for shiny app used to predict body fat proportion based on user input.
+*shiny.R contains UI and SERVER part for shiny app used to predict body fat proportion based on user input.
 
 ## Image
 This folder contains figures produced in our analysis.
