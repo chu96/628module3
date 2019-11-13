@@ -4,7 +4,7 @@ This repository contains project work related to STAT 628, instructed by Prof. H
 ## Link to our web-based app
 - [Body fat percentage Calculator](https://chenhu.shinyapps.io/fatcalculator/)
 ## Summary
-There are four folders providing details in our main project, *data*, *code*, *image*, *jupyternotebook*.
+There are four folders providing details in our main project, *data*, *code*, *image*, *executive summary*.
 
 ## Data
 *ice_final3.csv* is the data set with business information for target ice-cream shops after cleaning data.
@@ -17,10 +17,15 @@ There are four folders providing details in our main project, *data*, *code*, *i
 ## Code
 There are 4 Python code files and 4 R code files:
 *load_data.ipynb contains read json files to csv files.
+
 *business_1.ipynb contains data pre-processing of business information.
+
 *review_cleaning.ipynb contains data pre-processeing of review information.
+
 *UserWeight.ipynb contains converting user information to user weight which is more easily to be used.
+
 *ice.R contains final model to predict ranking stars.
+
 * shiny.R contains UI and SERVER part for shiny app used to predict body fat proportion based on user input.
 
 ## Image
