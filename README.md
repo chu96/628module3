@@ -16,17 +16,17 @@ There are four folders providing details in our main project, *data*, *code*, *i
 
 ## Code
 There are 4 Python code files and 4 R code files:
-*load_data.ipynb contains read json files to csv files.
+*load_data.ipynb* contains read json files to csv files.
 
-*business_1.ipynb contains data pre-processing of business information.
+*business_1.ipynb* contains data pre-processing of business information.
 
-*review_cleaning.ipynb contains data pre-processeing of review information.
+*review_cleaning.ipynb* contains data pre-processeing of review information.
 
-*UserWeight.ipynb contains converting user information to user weight which is more easily to be used.
+*UserWeight.ipynb* contains converting user information to user weight which is more easily to be used.
 
-*ice.R contains final model to predict ranking stars.
+*ice.R* contains final model to predict ranking stars.
 
-*shiny.R contains UI and SERVER part for shiny app used to predict body fat proportion based on user input.
+*shiny.R* contains UI and SERVER part for shiny app used to predict body fat proportion based on user input.
 
 ## Image
 This folder contains figures produced in our analysis.
