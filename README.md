@@ -36,7 +36,7 @@ This folder contains figures produced in our analysis.
 *Executive_summary.ipynb* is a detailed summary of what we did presented in a Jupyter Notebook. 
 
 ## Authors
-* **Ke Chen** -(@wisc.edu)
+* **Ke Chen** -(kchen323@wisc.edu)
 * **Chen Hu** -(chu96@wisc.edu.edu)
 * **Nan Yan** -(@wisc.edu)
 * **Richard Yang** -(@wisc.edu)
