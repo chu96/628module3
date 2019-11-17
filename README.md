@@ -2,7 +2,7 @@
 This repository contains project work related to STAT 628, instructed by Prof. Hyunseung Kang. We built a model for predicting ranking stars in YELP for ice-cream business. 
 
 ## Link to our web-based app
-- [Body fat percentage Calculator](https://chenhu.shinyapps.io/fatcalculator/)
+- [Body fat percentage Calculator](https://vanessa1997.shinyapps.io/IceCreamUSA/)
 ## Summary
 There are four folders providing details in our main project, *data*, *code*, *image*, *executive summary*.
 
