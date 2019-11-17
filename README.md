@@ -38,5 +38,5 @@ This folder contains figures produced in our analysis.
 ## Authors
 * **Ke Chen** -(kchen323@wisc.edu)
 * **Chen Hu** -(chu96@wisc.edu.edu)
-* **Nan Yan** -(@wisc.edu)
-* **Richard Yang** -(@wisc.edu)
+* **Nan Yan** -(nyan5@wisc.edu)
+* **Richard Yang** -(gyang79@wisc.edu)
