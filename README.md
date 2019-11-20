@@ -31,6 +31,9 @@ There are 4 Python code files and 4 R code files:
 ## Image
 This folder contains figures produced in our analysis.
 
+## APP
+This folder contains materials used in developing shiny app.
+
 
 ## Executive summary
 *Executive_summary.ipynb* is a detailed summary of what we did presented in a Jupyter Notebook. 
