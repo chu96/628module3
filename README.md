@@ -24,7 +24,9 @@ There are 4 Python code files and 4 R code files:
 
 *UserWeight.ipynb* contains converting user information to user weight which is more easily to be used.
 
-* 
+*Dtree_heatmap.py* *Radar.py* contains code to analysis review data set vitualizedly.
+
+*ice.R* is R code to iplement optimal point seeking and linear regression.
 
 ## Image
 This folder contains figures produced in our analysis.
